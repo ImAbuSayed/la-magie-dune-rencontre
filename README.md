@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-magie-dune-rencontre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: La Magie D'une Rencontre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-magie-dune-rencontre/) |
+| **Get License** | [Get a Licensing Quote for La Magie D'une Rencontre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-magie-dune-rencontre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les flashs de Paname, tu brilles comme un diamant
+> Baby, come closer, laisse-moi arrêter le temps
+> Tes yeux dans le rétro, c'est l'appel du désir
+> Une vibe de minuit qu'on ne veut pas retenir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
