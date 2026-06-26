@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-magie-dune-rencontre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for La Magie D'une Rencontre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-magie-dune-rencontre/) |
+| **Get License** | [Music Rights & Licensing for La Magie D'une Rencontre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-magie-dune-rencontre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4388)
 
 ---
 
